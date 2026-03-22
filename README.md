@@ -71,7 +71,11 @@ User Input → Keyword Expansion → Seed URL Generation → Focused Crawling �
 8. Top results are displayed on UI
 
 ---
+## View My Deployed Project here: 
 
+https://crawler-smart-elearning.vercel.app/
+
+---
 ## 📸 Screenshots
 
 <img width="1890" height="894" alt="Screenshot 2026-03-22 141041" src="https://github.com/user-attachments/assets/7855da67-c466-4c24-8af1-ee44b5dfecad" />

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://crawler-backend-i4mu.onrender.com/api";
 
 export const startCrawl = (tags) => {
   axios.post(`${BASE_URL}/crawl`, { tags });

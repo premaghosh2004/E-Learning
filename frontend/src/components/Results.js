@@ -8,23 +8,26 @@ function Results({ results }) {
       {results.map((item, index) => (
         <div key={index} className="card">
 
+          {/* 🔗 URL */}
           <a href={item.url} target="_blank" rel="noreferrer">
             🔗 {item.url}
           </a>
 
-          <p>⭐ Score: {item.score.toFixed(3)}</p>
-
-          {/* TAG BADGES */}
+          {/* 🏷️ TAGS */}
           <div className="tags">
             {item.tags?.map((tag, i) => (
-              <span key={i} className="tag">{tag}</span>
+              <span key={i} className="tag">
+                {tag}
+              </span>
             ))}
           </div>
 
-          {/* MATCHED TAGS */}
-          <p className="match">
-            Matched: {item.matchedTags?.join(", ")}
-          </p>
+          {/* 🎯 MATCHED TAGS */}
+          {item.matchedTags && item.matchedTags.length > 0 && (
+            <p className="match">
+              Matched: {item.matchedTags.join(", ")}
+            </p>
+          )}
 
         </div>
       ))}

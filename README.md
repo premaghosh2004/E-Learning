@@ -78,9 +78,11 @@ https://crawler-smart-elearning.vercel.app/
 ---
 ## 📸 Screenshots
 
-<img width="1890" height="894" alt="Screenshot 2026-03-22 141041" src="https://github.com/user-attachments/assets/7855da67-c466-4c24-8af1-ee44b5dfecad" />
+<img width="1903" height="967" alt="Screenshot 2026-03-23 131758" src="https://github.com/user-attachments/assets/f5cb5ca8-d51d-426c-a173-da49b19a8279" />
 
-<img width="1898" height="902" alt="Screenshot 2026-03-22 141105" src="https://github.com/user-attachments/assets/deae0451-ccd9-47da-917d-58e516a1461d" />
+<img width="1905" height="959" alt="Screenshot 2026-03-23 131826" src="https://github.com/user-attachments/assets/b3516e65-3a46-4b71-9d1f-bfead98e7c85" />
+
+<img width="1914" height="966" alt="Screenshot 2026-03-23 132006" src="https://github.com/user-attachments/assets/0c065e37-14f2-48e3-8b47-d44f2fa339f1" />
 
 ---
 
